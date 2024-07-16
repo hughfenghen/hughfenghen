@@ -4,10 +4,10 @@
 
 以下是我正在积极维护的开源项目，欢迎贡献、star、follow me
 
-- [WebAV](https://github.com/bilibili/WebAV/)：基于 WebCodecs 构建的 SDK，用于在 Web 平台上**创建/编辑视频文件** ![GitHub Repo stars](https://img.shields.io/github/stars/bilibili/WebAV)
-- [Web 音视频知识图谱](https://github.com/hughfenghen/WebAV-KnowledgeGraph)：整理 Web 音视频相关的 API、SDK、文章、对外产品，帮助前端开发者入门/进阶音视频领域 ![GitHub Repo stars](https://img.shields.io/github/stars/hughfenghen/WebAV-KnowledgeGraph)
-- [opfs-tools](https://github.com/hughfenghen/opfs-tools/)：简单、高性能、完备的**文件系统 API**，在浏览器中运行 ![GitHub Repo stars](https://img.shields.io/github/stars/hughfenghen/opfs-tools)
-- [opfs-tools-explorer](https://github.com/hughfenghen/opfs-tools-explorer)：基于 opfs-tools 实现的浏览器文件管理 UI ![GitHub Repo stars](https://img.shields.io/github/stars/hughfenghen/opfs-tools-explorer)
+- [WebAV](https://github.com/bilibili/WebAV/)：基于 WebCodecs 构建的 SDK，用于在 Web 平台上**创建/编辑视频文件** [![GitHub Repo stars](https://img.shields.io/github/stars/bilibili/WebAV)](https://github.com/bilibili/WebAV/)
+- [Web 音视频知识图谱](https://github.com/hughfenghen/WebAV-KnowledgeGraph)：整理 Web 音视频相关的 API、SDK、文章、对外产品，帮助前端开发者入门/进阶音视频领域 [![GitHub Repo stars]](https://github.com/hughfenghen/WebAV-KnowledgeGraph)(https://img.shields.io/github/stars/hughfenghen/WebAV-KnowledgeGraph)
+- [opfs-tools](https://github.com/hughfenghen/opfs-tools/)：简单、高性能、完备的**文件系统 API**，在浏览器中运行 [![GitHub Repo stars](https://img.shields.io/github/stars/hughfenghen/opfs-tools)](https://github.com/hughfenghen/opfs-tools/)
+- [opfs-tools-explorer](https://github.com/hughfenghen/opfs-tools-explorer)：基于 opfs-tools 实现的浏览器文件管理 UI [![GitHub Repo stars](https://img.shields.io/github/stars/hughfenghen/opfs-tools-explorer)](https://github.com/hughfenghen/opfs-tools-explorer)
 
 ![](https://github-readme-stats.vercel.app/api?username=hughfenghen&theme=dark&show_icons=true)
 
@@ -17,7 +17,7 @@
 
 Here are some open-source projects I am actively maintaining. Contributions, stars are welcome:
 
-- [WebAV](https://github.com/bilibili/WebAV/): An SDK built on WebCodecs for **creating/editing video files** on the Web platform. ![GitHub Repo stars](https://img.shields.io/github/stars/bilibili/WebAV)
-- [Web Audio and Video Knowledge Graph](https://github.com/hughfenghen/WebAV-KnowledgeGraph): Organizes APIs, SDKs, articles, and external products related to Web audio and video to help frontend developers get started/advance in the audio and video field. ![GitHub Repo stars](https://img.shields.io/github/stars/hughfenghen/WebAV-KnowledgeGraph)
-- [opfs-tools](https://github.com/hughfenghen/opfs-tools/): A simple, high-performance, complete **file system API** that runs in the browser. ![GitHub Repo stars](https://img.shields.io/github/stars/hughfenghen/opfs-tools)
-- [opfs-tools-explorer](https://github.com/hughfenghen/opfs-tools-explorer): A browser file management UI implemented based on opfs-tools. ![GitHub Repo stars](https://img.shields.io/github/stars/hughfenghen/opfs-tools-explorer)
+- [WebAV](https://github.com/bilibili/WebAV/): An SDK built on WebCodecs for **creating/editing video files** on the Web platform. [![GitHub Repo stars](https://img.shields.io/github/stars/bilibili/WebAV)](https://github.com/bilibili/WebAV/)
+- [Web Audio and Video Knowledge Graph](https://github.com/hughfenghen/WebAV-KnowledgeGraph): Organizes APIs, SDKs, articles, and external products related to Web audio and video to help frontend developers get started/advance in the audio and video field. [![GitHub Repo stars](https://img.shields.io/github/stars/hughfenghen/WebAV-KnowledgeGraph)](https://github.com/hughfenghen/WebAV-KnowledgeGraph)
+- [opfs-tools](https://github.com/hughfenghen/opfs-tools/): A simple, high-performance, complete **file system API** that runs in the browser. [![GitHub Repo stars](https://img.shields.io/github/stars/hughfenghen/opfs-tools)](https://github.com/hughfenghen/opfs-tools/)
+- [opfs-tools-explorer](https://github.com/hughfenghen/opfs-tools-explorer): A browser file management UI implemented based on opfs-tools. [![GitHub Repo stars](https://img.shields.io/github/stars/hughfenghen/opfs-tools-explorer)](https://github.com/hughfenghen/opfs-tools-explorer)
