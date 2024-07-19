@@ -10,14 +10,3 @@
 - [opfs-tools-explorer](https://github.com/hughfenghen/opfs-tools-explorer)：基于 opfs-tools 实现的浏览器文件管理 UI [![GitHub Repo stars](https://img.shields.io/github/stars/hughfenghen/opfs-tools-explorer)](https://github.com/hughfenghen/opfs-tools-explorer)
 
 ![](https://github-readme-stats.vercel.app/api?username=hughfenghen&theme=dark&show_icons=true)
-
----
-
-[My Blog](https://hughfenghen.github.io/) is continuously updated with technical articles related to **Web Engineering Efficiency and Audio/Video**. If you are interested in this field or the articles, feel free to subscribe via RSS or WeChat Official Account [subscribe update](https://hughfenghen.github.io/subscribe.html).
-
-Here are some open-source projects I am actively maintaining. Contributions, stars are welcome:
-
-- [WebAV](https://github.com/bilibili/WebAV/): An SDK built on WebCodecs for **creating/editing video files** on the Web platform. [![GitHub Repo stars](https://img.shields.io/github/stars/bilibili/WebAV)](https://github.com/bilibili/WebAV/)
-- [Web Audio and Video Knowledge Graph](https://github.com/hughfenghen/WebAV-KnowledgeGraph): Organizes APIs, SDKs, articles, and external products related to Web audio and video to help frontend developers get started/advance in the audio and video field. [![GitHub Repo stars](https://img.shields.io/github/stars/hughfenghen/WebAV-KnowledgeGraph)](https://github.com/hughfenghen/WebAV-KnowledgeGraph)
-- [opfs-tools](https://github.com/hughfenghen/opfs-tools/): A simple, high-performance, complete **file system API** that runs in the browser. [![GitHub Repo stars](https://img.shields.io/github/stars/hughfenghen/opfs-tools)](https://github.com/hughfenghen/opfs-tools/)
-- [opfs-tools-explorer](https://github.com/hughfenghen/opfs-tools-explorer): A browser file management UI implemented based on opfs-tools. [![GitHub Repo stars](https://img.shields.io/github/stars/hughfenghen/opfs-tools-explorer)](https://github.com/hughfenghen/opfs-tools-explorer)
