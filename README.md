@@ -1,4 +1,4 @@
-## Hi~, 我是风痕（fenghen），Web 开发者。
+## Hi~, 我是风痕，Web 开发者。
 
 [我的博客](https://hughfenghen.github.io/)会持续更新 **Web 工程效率、音视频**相关的技术文章，欢迎通过 RSS 或微信公众号[订阅更新](https://hughfenghen.github.io/subscribe.html)。
 
