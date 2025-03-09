@@ -8,6 +8,9 @@
 - [Web 音视频知识图谱](https://github.com/hughfenghen/WebAV-KnowledgeGraph)：整理 Web 音视频相关的 API、SDK、文章、对外产品，帮助前端开发者入门/进阶音视频领域 [![GitHub Repo stars](https://img.shields.io/github/stars/hughfenghen/WebAV-KnowledgeGraph)](https://github.com/hughfenghen/WebAV-KnowledgeGraph)
 - [opfs-tools](https://github.com/hughfenghen/opfs-tools/)：简单、高性能、完备的**文件系统 API**，在浏览器中运行 [![GitHub Repo stars](https://img.shields.io/github/stars/hughfenghen/opfs-tools)](https://github.com/hughfenghen/opfs-tools/)
 - [opfs-finder](https://github.com/hughfenghen/opfs-finder)：使用 AI + OPFS 在浏览器中实现 MacOS Finder 的文件管理交互 [![GitHub Repo stars](https://img.shields.io/github/stars/hughfenghen/opfs-finder)](https://github.com/hughfenghen/opfs-finder)
+
+<!-- 
 - [opfs-tools-explorer](https://github.com/hughfenghen/opfs-tools-explorer)：基于 opfs-tools 实现的浏览器文件管理 UI [![GitHub Repo stars](https://img.shields.io/github/stars/hughfenghen/opfs-tools-explorer)](https://github.com/hughfenghen/opfs-tools-explorer)
+-->
 
 ![](https://github-readme-stats.vercel.app/api?username=hughfenghen&theme=dark&show_icons=true)
