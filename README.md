@@ -1,6 +1,6 @@
 ## Hi~, 我是风痕，Web 开发者。
 
-[我的博客](https://hughfenghen.github.io/)会持续更新 **Web 工程效率、音视频**相关的技术文章，欢迎通过 RSS 或微信公众号[订阅更新](https://hughfenghen.github.io/subscribe.html)。
+[我的博客](https://fenghen.me/)会持续更新 **Web 工程效率、音视频**相关的技术文章，欢迎通过 RSS 或微信公众号[订阅更新](https://fenghen.me/subscribe.html)。
 
 以下是我正在积极维护的开源项目，欢迎贡献、star、follow me ：）
 
