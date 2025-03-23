@@ -5,6 +5,7 @@
 以下是我正在积极维护的开源项目，欢迎贡献、star、follow me ：）
 
 - [WebAV](https://github.com/WebAV-Tech/WebAV/)：基于 WebCodecs 构建的 SDK，用于在 Web 平台上**创建/编辑视频文件** [![GitHub Repo stars](https://img.shields.io/github/stars/WebAV-Tech/WebAV)](https://github.com/WebAV-Tech/WebAV/)
+- <a href="https://github.com/WebAV-Tech/WebAV-Pro/">WebAV-Pro</a>：基于 WebAV 的**商业版 SDK**
 - [Web 音视频知识图谱](https://github.com/hughfenghen/WebAV-KnowledgeGraph)：整理 Web 音视频相关的 API、SDK、文章、对外产品，帮助前端开发者入门/进阶音视频领域 [![GitHub Repo stars](https://img.shields.io/github/stars/hughfenghen/WebAV-KnowledgeGraph)](https://github.com/hughfenghen/WebAV-KnowledgeGraph)
 - [opfs-tools](https://github.com/hughfenghen/opfs-tools/)：简单、高性能、完备的**文件系统 API**，在浏览器中运行 [![GitHub Repo stars](https://img.shields.io/github/stars/hughfenghen/opfs-tools)](https://github.com/hughfenghen/opfs-tools/)
 - [opfs-finder](https://github.com/hughfenghen/opfs-finder)：使用 AI + OPFS 在浏览器中实现 MacOS Finder 的文件管理交互 [![GitHub Repo stars](https://img.shields.io/github/stars/hughfenghen/opfs-finder)](https://github.com/hughfenghen/opfs-finder)
