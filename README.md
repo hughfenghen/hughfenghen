@@ -1,4 +1,4 @@
-## Hi~, 我是风痕，Web 自由开发者。
+## Hi~，我是风痕，Web 自由开发者。
 
 [我的博客](https://fenghen.me/)会持续更新 **Web 工程效率、音视频**相关的技术文章，欢迎[订阅更新](https://fenghen.me/subscribe.html)。
 
